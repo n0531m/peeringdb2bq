@@ -8,7 +8,7 @@ update at least the following variables as approprite
 
 usage: 
 ```bash
-chmod +x ./download.sh
-./download.sh
+chmod +x ./peeringdb2bq.sh
+./peeringdb2bq.sh
 ```
 
